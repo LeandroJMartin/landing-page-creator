@@ -1,0 +1,100 @@
+{
+  "colors": {
+    "primary": "#152c5c",
+    "second": "#e54489",
+    "third": "#ff805d",
+    "base": "#ffffff"
+  },
+  "whatsapp": {
+    "number": "17991131854",
+    "text": "Quero receber uma proposta."
+  },
+  "header": {
+    "config": {
+      "model": "1"
+    },
+    "logo": {
+      "src": "/logo-light.png",
+      "alt": "Logo Creator LP"
+    },
+    "nav": [
+      {
+        "label": "About",
+        "path": "about",
+        "submenu": []
+      },
+      {
+        "label": "Services",
+        "path": "services",
+        "submenu": []
+      },
+      {
+        "label": "Features",
+        "path": "features",
+        "submenu": []
+      },
+      {
+        "label": "Price",
+        "path": "price",
+        "submenu": []
+      },
+      {
+        "label": "Contact",
+        "path": "contact",
+        "submenu": []
+      }
+    ],
+    "social": [
+      {
+        "icon": "BsFacebook",
+        "url": "https://facebook.com"
+      },
+      {
+        "icon": "BsInstagram",
+        "url": "https://instagram.com"
+      }
+    ]
+  },
+  "main": {
+    "section": {
+      "config": {
+        "col": "2"
+      }
+
+    }
+  },
+  "footer":{
+    "config":{
+      "model": "1"
+    },
+    "logo": "/logo-light.png",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "nav": [
+      {
+        "label": "About",
+        "path": "about",
+        "submenu": []
+      },
+      {
+        "label": "Features",
+        "path": "features",
+        "submenu": []
+      },
+      {
+        "label": "Contact",
+        "path": "contact",
+        "submenu": []
+      }
+    ],
+    "social": [
+      {
+        "icon": "",
+        "link": "https://facebook.com"
+      },
+      {
+        "icon": "",
+        "link": "https://instagram.com"
+      }
+    ]
+  }
+}
